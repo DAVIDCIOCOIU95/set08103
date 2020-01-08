@@ -123,12 +123,12 @@ Individual contributions to the team will be assessed by your peers and the modu
 
 We wish to determine the individual contribution to the team project.  To do this, the team have to submit a single spreadsheet to Moodle defining the agreed contribution of each team member to the individual delivery points.  This should be submitted in percentages with the total sum of individual contributions adding up to 100% at each point of assessment.  For example:
 
-|      | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable |
+| Matriculation Number | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable |
 | ---- | ------------- | ------------- | ------------- | ------------- | ----------------- |
-| Member1 | 25          | 50          | 0.0           | 0.25          | 0.2               |
-| Member2 | 25          | 50          | 0.5           | 0.25          | 0.4               |
-| Member3 | 25          | 0         | 0.5           | 0.25          | 0.2               |
-| Member4 | 25          | 0           | 0.0           | 0.25          | 0.2               |
+| 4000xxxx | 25          | 50          | 0.0           | 0.25          | 0.2               |
+| 4000xxxx | 25          | 50          | 0.5           | 0.25          | 0.4               |
+| 4000xxxx | 25          | 0         | 0.5           | 0.25          | 0.2               |
+| 4000xxxx | 25          | 0           | 0.0           | 0.25          | 0.2               |
 | **Total** | **100**   | **100** | **100**      | **100**   | **100** 				|
 The team need to agree these scores.  **If the team cannot agree, or a team member believes the spreadsheet submitted does not represent the actual contributions, then contact a member of the teaching team.**  In these circumstances, the metrics and other information provided on GitHub will be used.
 

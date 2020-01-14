@@ -45,15 +45,14 @@ For example:
 
 We will only assess your `master` branch.  Make sure that branch contains the version of your code you wish to submit.
 
-## Step 5: Submit a Spreadsheet to Moodle Defining Individual Contribution
+## Step 5: Submit your final Individual Contribution Spreadsheet 
 
-We wish to determine the individual contribution to the team project.  To do this, the team have to submit a single spreadsheet to Moodle defining the agreed contribution of each team member to the individual delivery points.  This should be submitted in percentages.  For example:
-
-|      | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable | Average |
-|------|---------------|---------------|---------------|---------------|-------------------|-------|
-| Name | 0.25 | 0.5 | 0.0 | 0.25 | 0.2 | 0.24 |
-| Name | 0.25 | 0.5 | 0.5 | 0.25 | 0.4 | 0.38 |
-| Name | 0.25 | 0.0 | 0.5 | 0.25 | 0.2 | 0.24 |
-| Name | 0.25 | 0.0 | 0.0 | 0.25 | 0.2 | 0.14 |
+| Matriculation Number | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable |
+| ---- | ------------- | ------------- | ------------- | ------------- | ----------------- |
+| 4000xxxx | 25          | 50          | 0.0           | 0.25          | 0.2               |
+| 4000xxxx | 25          | 50          | 0.5           | 0.25          | 0.4               |
+| 4000xxxx | 25          | 0         | 0.5           | 0.25          | 0.2               |
+| 4000xxxx | 25          | 0           | 0.0           | 0.25          | 0.2               |
+| **Total** | **100**   | **100** | **100**      | **100**   | **100** 
 
 The team need to agree these scores.  **If the team cannot agree, or a team member believes the spreadsheet submitted does not represent the actual contributions, then email the teaching team.**  In these circumstances, the metrics and other information provided on GitHub will be used.
